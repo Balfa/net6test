@@ -1,4 +1,4 @@
-using system;
+using System;
 void main(){
 Console.WriteLine("hi wold");
 }
